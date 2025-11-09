@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hey there, I'm **Ruhaan Bhargav**
 
 🎓 **Computer Science & Mathematics @ Purdue University (Class of 2028)**  
@@ -9,7 +7,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a **developer**, **engineer**, and **problem solver** passionate about building impactful systems — from **embedded avionics** to **intelligent web applications**.  
 My work spans across software engineering, data analysis, and real-time systems programming.
@@ -26,6 +24,13 @@ I'm currently exploring how **machine learning models** and **Python APIs** can 
 - Investigating **Greeks estimation**, **volatility surface modeling**, and **Monte Carlo simulations** for derivatives pricing.
 
 This line of work blends my interests in **mathematics, programming, and financial systems**, and I’m aiming to publish it as an open-source project in the near future.
+
+---
+
+### 🧠 Machine Learning & Artificial Intelligence  
+I'm currently deepening my understanding of **machine learning** and **artificial intelligence** through **Microsoft Learn** and various **open courseware resources**.  
+These courses have helped me explore topics such as **supervised and unsupervised learning**, **neural network architectures**, and **model evaluation techniques** using frameworks like `PyTorch` and `scikit-learn`.  
+I’m especially interested in the **mathematical foundations** behind these algorithms — from gradient descent and loss optimization to probabilistic reasoning — and how they can be applied to **real-world systems** such as trading algorithms, recommendation engines, and sensor fusion.  
 
 ---
 
