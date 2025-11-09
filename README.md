@@ -57,8 +57,7 @@ I'm currently deepening my understanding of **machine learning** and **artificia
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhaanB6&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhaanB6&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhaanB6&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhaanB6&layout=compact&theme=radical)
 
 
 <p align="center">
