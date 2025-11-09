@@ -1,9 +1,7 @@
 # 👋 Hey there, I'm **Ruhaan Bhargav**
 
 🎓 **Computer Science & Mathematics @ Purdue University (Class of 2028)**  
-📍 West Lafayette, IN  
-📧 [ruhaanbhargav6@gmail.com](mailto:ruhaanbhargav6@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ruhaan-bhargav/) | [GitHub](https://github.com/RuhaanB6)
+📧 [ruhaanbhargav6@gmail.com](mailto:ruhaanbhargav6@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ruhaan-bhargav/) | 🤖 [GitHub](https://github.com/RuhaanB6)
 
 ---
 
