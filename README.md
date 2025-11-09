@@ -16,48 +16,7 @@ My work spans across software engineering, data analysis, and real-time systems 
 
 ---
 
-## 💼 Experience
-
-### 🧑‍🏫 **Computer Science Bridge TA** @ Purdue University  
-*Jul 2025 – Aug 2025 | Indiana, USA*  
-- Helped incoming CS students master **Java fundamentals** through an intensive 2-week course.  
-- Delivered an hour-long **live coding lecture** introducing C, Vim, GDB, and compilers.  
-- Created **custom programming challenges** to support advanced learners.
-
-### 🌐 **Web Developer** @ UNICA China  
-*Jun 2025 – Aug 2025 | Shanghai, China*  
-- Developed and deployed a **responsive company website** using HTML, CSS, and JavaScript.  
-- Integrated **pdf.js** to secure sensitive documents from downloads.  
-- Improved load times by **5×** using compression and lazy loading.  
-- Ensured **WCAG-compliant accessibility** with ARIA and screen reader features.  
-🔗 [unicachina.com](http://www.unicachina.com/)
-
----
-
-## 🚀 Projects
-
-### 🛰️ **Purdue Orbital – Avionics Engineer**  
-*Jun 2024 – Present*  
-- Designed and programmed **sensor packages** (accelerometer, barometer, IMU) in **Rust** using Embassy.  
-- Established a **CAN bus data pipeline** between subsystems.  
-- Published code now used by other university rocketry teams (e.g. **Stanford SSI**).
-
-### 🏎️ **Purdue EV Grand Prix – Head of Software**  
-*Feb 2025 – Present*  
-- Led a 6-person team developing telemetry and data visualization systems for a race EV kart.  
-- Automated **data extraction and analysis** from AIM Mychron 6 using **Python, pandas, and matplotlib**.  
-- Derived **actionable insights** to improve lap times and detect inefficiencies.
-
-### 🏠 **Boiler Housing Hub**  
-*Oct 2024 – Nov 2024*  
-- Created a web app recommending Purdue housing based on user preferences.  
-- Designed a **weighted matching algorithm** using distance metrics and expected values.  
-- Built with **HTML, CSS, JavaScript**, and hosted on **GitHub Pages**.  
-🔗 [boilerhousinghub.github.io](http://boilerhousinghub.github.io)
-
----
-
-## 💹 Current Projects & Interests
+## Current Projects & Interests
 
 ### 📈 Quantitative Finance & Algorithmic Trading  
 I'm currently exploring how **machine learning models** and **Python APIs** can be integrated to enhance **financial analytics** and **automated trading**.
@@ -70,9 +29,9 @@ This line of work blends my interests in **mathematics, programming, and financi
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 💻 Languages  
+### Languages  
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
@@ -82,7 +41,7 @@ This line of work blends my interests in **mathematics, programming, and financi
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-### ⚙️ Frameworks / Tools  
+### Frameworks / Tools  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
@@ -123,6 +82,3 @@ This line of work blends my interests in **mathematics, programming, and financi
 </p>
 
 ---
-
-⭐ *"Engineering the future — one line of code at a time."*  
-— **Ruhaan Bhargav**
