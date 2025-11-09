@@ -14,25 +14,6 @@ My work spans across software engineering, data analysis, and real-time systems 
 
 ---
 
-## Current Projects & Interests
-
-### 📈 Quantitative Finance & Algorithmic Trading  
-I'm currently exploring how **machine learning models** and **Python APIs** can be integrated to enhance **financial analytics** and **automated trading**.
-
-- Building pipelines that pull **real-time market data** using APIs like `yfinance`, `alpaca-trade-api`, and `polygon.io`.  
-- Developing a **web-based options price predictor**, combining financial modeling with web visualization tools like **Plotly Dash** or **Streamlit**.  
-- Investigating **Greeks estimation**, **volatility surface modeling**, and **Monte Carlo simulations** for derivatives pricing.
-
-This line of work blends my interests in **mathematics, programming, and financial systems**, and I’m aiming to publish it as an open-source project in the near future.
-
----
-
-### 🧠 Machine Learning & Artificial Intelligence  
-I'm currently deepening my understanding of **machine learning** and **artificial intelligence** through **Microsoft Learn** and various **open courseware resources**.
-- I’m especially interested in the **mathematical foundations** behind these algorithms — from gradient descent and loss optimization to probabilistic reasoning — and how they can be applied to **real-world systems** such as trading algorithms, recommendation engines, and sensor fusion.  
-
----
-
 ## Tech Stack
 
 ### Languages  
@@ -57,6 +38,25 @@ I'm currently deepening my understanding of **machine learning** and **artificia
 
 ---
 
+## Current Projects & Interests
+
+### 📈 Quantitative Finance & Algorithmic Trading  
+I'm currently exploring how **machine learning models** and **Python APIs** can be integrated to enhance **financial analytics** and **automated trading**.
+
+- Building pipelines that pull **real-time market data** using APIs like `yfinance`, `alpaca-trade-api`, and `polygon.io`.  
+- Developing a **web-based options price predictor**, combining financial modeling with web visualization tools like **Plotly Dash** or **Streamlit**.  
+- Investigating **Greeks estimation**, **volatility surface modeling**, and **Monte Carlo simulations** for derivatives pricing.
+
+This line of work blends my interests in **mathematics, programming, and financial systems**, and I’m aiming to publish it as an open-source project in the near future.
+
+---
+
+### 🧠 Machine Learning & Artificial Intelligence  
+I'm currently deepening my understanding of **machine learning** and **artificial intelligence** through **Microsoft Learn** and various **open courseware resources**.
+- I’m especially interested in the **mathematical foundations** behind these algorithms — from gradient descent and loss optimization to probabilistic reasoning — and how they can be applied to **real-world systems** such as trading algorithms, recommendation engines, and sensor fusion.  
+
+---
+
 ## 📊 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhaanB6&show_icons=true&theme=radical)  
@@ -70,5 +70,3 @@ I'm currently deepening my understanding of **machine learning** and **artificia
   &nbsp;
   <a href="mailto:ruhaanbhargav6@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="45px"/></a>
 </p>
-
----
