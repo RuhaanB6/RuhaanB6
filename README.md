@@ -1,7 +1,5 @@
-# Hello Hello! I'm your friendly neighbourhood **Ruhaan**
-
 🎓 **Computer Science & Mathematics @ Purdue University (Class of 2028)**  
-📧 [ruhaanbhargav6@gmail.com](mailto:ruhaanbhargav6@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ruhaan-bhargav/) | 🤖 [GitHub](https://github.com/RuhaanB6)
+📧 [ruhaanbhargav6@gmail.com](mailto:ruhaanbhargav6@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ruhaan-bhargav/) | 🤖 [Personal Website](https://ruhaan.dev)
 
 ---
 
