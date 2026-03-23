@@ -52,18 +52,3 @@ This line of work blends my interests in **mathematics, programming, and financi
 ### 🧠 Machine Learning & Artificial Intelligence  
 I'm currently deepening my understanding of **machine learning** and **artificial intelligence** through **Microsoft Learn** and various **open courseware resources**.
 - I’m especially interested in the **mathematical foundations** behind these algorithms — from gradient descent and loss optimization to probabilistic reasoning — and how they can be applied to **real-world systems** such as trading algorithms, recommendation engines, and sensor fusion.  
-
----
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhaanB6&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhaanB6&layout=compact&theme=radical)
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ruhaan-bhargav/"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
-  &nbsp;
-  <a href="https://github.com/RuhaanB6"><img src="https://skillicons.dev/icons?i=github" width="45px"/></a>
-  &nbsp;
-  <a href="mailto:ruhaanbhargav6@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="45px"/></a>
-</p>
